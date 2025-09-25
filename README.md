@@ -2,6 +2,7 @@
 
 Data / AI 취준생들을 위한 Cookbook
 
+### 문의는 카카오톡 sohyunwriter 로 주세요
 ### 블로그 : https://sohyunwriter.tistory.com/
 ### 오카방(Data/AI 직무 정보방) : https://open.kakao.com/o/gCCXoU0g
 1.자료 링크 모음 : 취준과 관련된 도움이 되는 자료를 보고 싶다면 아래 게시글 링크 참고
@@ -20,4 +21,3 @@ Data / AI 취준생들을 위한 Cookbook
 ➡️ Job Finder란? https://aicrews-jobfinder.notion.site/jobfinder
 **OCR 등 개발할 거리가 많아서 10월 중순쯤에 2기 모집 예정입니다. 
 
-### 문의는 카카오톡 sohyunwriter 로 주세요.
